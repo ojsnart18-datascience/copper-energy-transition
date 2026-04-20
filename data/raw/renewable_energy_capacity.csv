@@ -1,0 +1,29 @@
+"Electricity capacity statistics by Region, Technology, Grid connection and Year"
+
+"Region","Technology","Grid connection","Year",Electricity capacity statistics
+"World","Total renewable energy","OnGrid","2000",762058.23
+"World","Total renewable energy","OnGrid","2001",783160.15
+"World","Total renewable energy","OnGrid","2002",804034.95
+"World","Total renewable energy","OnGrid","2003",834253.36
+"World","Total renewable energy","OnGrid","2004",867048.86
+"World","Total renewable energy","OnGrid","2005",905682.43
+"World","Total renewable energy","OnGrid","2006",947047.87
+"World","Total renewable energy","OnGrid","2007",996319.48
+"World","Total renewable energy","OnGrid","2008",1059106.83
+"World","Total renewable energy","OnGrid","2009",1139540.00
+"World","Total renewable energy","OnGrid","2010",1222113.06
+"World","Total renewable energy","OnGrid","2011",1326466.61
+"World","Total renewable energy","OnGrid","2012",1440892.72
+"World","Total renewable energy","OnGrid","2013",1564346.51
+"World","Total renewable energy","OnGrid","2014",1693342.49
+"World","Total renewable energy","OnGrid","2015",1845413.49
+"World","Total renewable energy","OnGrid","2016",2013416.27
+"World","Total renewable energy","OnGrid","2017",2179595.65
+"World","Total renewable energy","OnGrid","2018",2348366.01
+"World","Total renewable energy","OnGrid","2019",2532149.18
+"World","Total renewable energy","OnGrid","2020",2800222.53
+"World","Total renewable energy","OnGrid","2021",3065312.55
+"World","Total renewable energy","OnGrid","2022",3365854.73
+"World","Total renewable energy","OnGrid","2023",3858074.01
+"World","Total renewable energy","OnGrid","2024",4440189.36
+"World","Total renewable energy","OnGrid","2025",5130379.76
