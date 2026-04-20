@@ -1,0 +1,7 @@
+Variable,Model 1 (Baseline),Model 2 (Full)
+Renewable Capacity (GW),0.5819 (p=0.059),2.1992 (p=0.000)
+GDP Growth (%),—,238.9765 (p=0.007)
+Dollar Index,—,-157.5759 (p=0.000)
+Constant,5913.99,18687.89
+R-squared,0.194,0.815
+Observations,19,19
