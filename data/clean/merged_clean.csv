@@ -1,27 +1,20 @@
-year,copper_price_usd,Region,Technology,Grid connection,renewable_gw
-2000,1814.52,World,Total renewable energy,OnGrid,762.06
-2001,1580.17,World,Total renewable energy,OnGrid,783.16
-2002,1560.29,World,Total renewable energy,OnGrid,804.03
-2003,1779.36,World,Total renewable energy,OnGrid,834.25
-2004,2863.47,World,Total renewable energy,OnGrid,867.05
-2005,3676.49,World,Total renewable energy,OnGrid,905.68
-2006,6731.35,World,Total renewable energy,OnGrid,947.05
-2007,7131.63,World,Total renewable energy,OnGrid,996.32
-2008,6963.48,World,Total renewable energy,OnGrid,1059.11
-2009,5164.16,World,Total renewable energy,OnGrid,1139.54
-2010,7538.36,World,Total renewable energy,OnGrid,1222.11
-2011,8823.45,World,Total renewable energy,OnGrid,1326.47
-2012,7958.92,World,Total renewable energy,OnGrid,1440.89
-2013,7331.49,World,Total renewable energy,OnGrid,1564.35
-2014,6863.4,World,Total renewable energy,OnGrid,1693.34
-2015,5510.46,World,Total renewable energy,OnGrid,1845.41
-2016,4867.9,World,Total renewable energy,OnGrid,2013.42
-2017,6169.94,World,Total renewable energy,OnGrid,2179.6
-2018,6529.8,World,Total renewable energy,OnGrid,2348.37
-2019,6010.15,World,Total renewable energy,OnGrid,2532.15
-2020,6174.56,World,Total renewable energy,OnGrid,2800.22
-2021,9317.41,World,Total renewable energy,OnGrid,3065.31
-2022,8828.92,World,Total renewable energy,OnGrid,3365.85
-2023,8490.76,World,Total renewable energy,OnGrid,3858.07
-2024,9142.1,World,Total renewable energy,OnGrid,4440.19
-2025,9946.88,World,Total renewable energy,OnGrid,5130.38
+year,copper_price_usd,renewable_gw,gdp_growth_pct,oil_price_usd,dollar_index
+2006,6731.35,947.05,3.156,65.6,98.6
+2007,7131.63,996.32,3.105,72.65,93.81
+2008,6963.48,1059.11,0.807,97.33,90.88
+2009,5164.16,1139.54,-2.547,61.58,96.75
+2010,7538.36,1222.11,3.26,79.81,93.05
+2011,8823.45,1326.47,2.087,111.54,88.78
+2012,7958.92,1440.89,1.446,112.01,91.64
+2013,7331.49,1564.35,1.628,108.96,92.76
+2014,6863.4,1693.34,1.896,99.35,95.59
+2015,5510.46,1845.41,1.9,53.02,108.17
+2016,4867.9,2013.42,1.603,45.08,113.07
+2017,6169.94,2179.6,2.288,54.89,112.81
+2018,6529.8,2348.37,2.164,71.61,112.0
+2019,6010.15,2532.15,1.613,64.2,115.73
+2020,6174.56,2800.22,-3.848,43.33,117.77
+2021,9317.41,3065.31,5.53,70.83,113.11
+2022,8828.92,3365.85,2.51,99.0,120.7
+2023,8490.76,3858.07,1.997,82.32,120.27
+2024,9142.1,4440.19,1.89,79.91,122.89
