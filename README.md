@@ -10,8 +10,7 @@ Blog post: https://hackmd.io/@wHvrr12wRHuOrzgZXhyLYw/HkY_0A46bx
 
 ## Project Structure
 
-## Project Structure
-
+```
 copper-energy-transition/
 ├── README.md
 ├── requirements.txt
@@ -26,6 +25,7 @@ copper-energy-transition/
 └── output/
     ├── figures/               ← six saved PNG figures
     └── tables/                ← regression results table
+```
 
 ## Data Sources
 
