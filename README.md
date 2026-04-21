@@ -10,20 +10,22 @@ Blog post: https://hackmd.io/@wHvrr12wRHuOrzgZXhyLYw/HkY_0A46bx
 
 ## Project Structure
 
+## Project Structure
+
 copper-energy-transition/
 ├── README.md
 ├── requirements.txt
+├── blog.md                    ← full blog post in Markdown
 ├── data/
-│   ├── raw/        ← original downloaded data, never modified
-│   └── clean/      ← processed and merged data, ready for analysis
+│   ├── raw/                   ← original downloaded data, never modified
+│   └── clean/                 ← processed and merged data, ready for analysis
 ├── src/
-│   ├── 01_clean.py       ← loads and cleans raw data
-│   ├── 02_analysis.py    ← runs regression model
-│   └── 03_figures.py     ← produces all plots
-├── output/
-│   ├── figures/    ← saved PNG plots
-│   └── tables/     ← regression output
-└── blog.ipynb      ← full blog post with narrative and embedded figures
+│   ├── 02_clean.py            ← loads and cleans all five raw datasets
+│   ├── 03_explore.py          ← produces exploratory figures
+│   └── 04_regression.py       ← runs OLS regression models and saves outputs
+└── output/
+    ├── figures/               ← six saved PNG figures
+    └── tables/                ← regression results table
 
 ## Data Sources
 
