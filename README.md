@@ -4,7 +4,7 @@ A data-driven blog post examining whether the global shift towards
 renewable energy is reflected in the increase in copper prices, using data from 
 FRED and IRENA covering 1990–2023.
 
-**Blog post:** [Link to be added once published]
+Blog post: https://hackmd.io/@wHvrr12wRHuOrzgZXhyLYw/HkY_0A46bx
 
 ---
 
